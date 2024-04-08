@@ -1,4 +1,4 @@
-<img src="./asset/logoImage.png" alt="로고 이미지" width="500" height="430">
+![image](https://github.com/Jiwon119/Toby-s-Carrot-Garden/assets/92111247/4a7667ab-c1a5-42aa-a999-b4ff2abd3036)
 
 
 # 🐇 토비의 당근 밭
@@ -96,10 +96,10 @@ AI를 기반으로 한 미취학 아동 교육
 # ✏️ SW Document
 
 ### 📊 ERD Diagram
-<img src="./asset/erd.png" alt="예시 이미지" width="" height="">
+![image](https://github.com/Jiwon119/Toby-s-Carrot-Garden/assets/92111247/6f22dc6f-f26f-4d34-b83e-c40f8f168f31)
 
 ### 🏗 System Architecture
-<img src="./asset/토비_시스템.png" alt="시스템아키텍쳐">
+![image](https://github.com/Jiwon119/Toby-s-Carrot-Garden/assets/92111247/ddf344f3-53ed-4fef-9a02-5806a2c1d8af)
 
 ### 🔮 핵심기술
 - Spring Security
@@ -107,42 +107,44 @@ AI를 기반으로 한 미취학 아동 교육
 - AI모델 : inceptionV3, doodle, mobileNet
 
 ### 🚀 Git Flow
-<img src="./asset/gitflow.PNG" alt="깃 flow 이미지" width="500" height="430">
+![image](https://github.com/Jiwon119/Toby-s-Carrot-Garden/assets/92111247/52c69032-d23d-4953-acf4-53fcd62c282f)
 
 
 <!-- # 📍 사용 방법
 ### 🎨 설치 및 시작하기 -->
 
 # 💾 기능 소개
-![Alt 텍스트](https://lab.ssafy.com/s10-ai-image-sub2/S10P22A202/-/raw/master/asset/%E1%84%92%E1%85%AC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8.GIF?ref_type=heads)
 - 로그인 화면
-
-![Alt 텍스트](https://lab.ssafy.com/s10-ai-image-sub2/S10P22A202/-/raw/master/asset/%E1%84%90%E1%85%B2%E1%84%90%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AF.GIF)
-
+![image](https://github.com/Jiwon119/Toby-s-Carrot-Garden/assets/92111247/325b79c3-861b-46f0-977f-2ede86c0c55d)  
+  
+  
 - 튜토리얼 처음 유저를 위한 안내페이지
+![image](https://github.com/Jiwon119/Toby-s-Carrot-Garden/assets/92111247/8c9df2c2-f35e-4918-988b-9f552be74b14)
 
-![Alt 텍스트](https://lab.ssafy.com/s10-ai-image-sub2/S10P22A202/-/raw/master/asset/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.GIF?ref_type=heads)
+  
 - 메인 화면
+![image](https://github.com/Jiwon119/Toby-s-Carrot-Garden/assets/92111247/827e48e9-f438-464a-89c6-cd52131b30e6)
 
-
-![Alt 텍스트](https://lab.ssafy.com/s10-ai-image-sub2/S10P22A202/-/raw/master/asset/%E1%84%86%E1%85%AE%E1%86%AF%E1%84%8E%E1%85%A6.GIF?ref_type=heads)
+  
 - AI모델 Object Quiz
-
-![Alt 텍스트](https://lab.ssafy.com/s10-ai-image-sub2/S10P22A202/-/raw/master/asset/%E1%84%80%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC.GIF?ref_type=heads)
+![image](https://github.com/Jiwon119/Toby-s-Carrot-Garden/assets/92111247/f1f30d41-4794-4ed9-b204-e5f81b61b4a1)
+  
+  
 - AI모델 Emotion Quiz
-
-![Alt 텍스트](https://lab.ssafy.com/s10-ai-image-sub2/S10P22A202/-/raw/master/asset/%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7.GIF?ref_type=heads)
+![image](https://github.com/Jiwon119/Toby-s-Carrot-Garden/assets/92111247/63f4a6b6-2e90-4450-a63f-83509b3b870f)
+  
+  
 - AI모델 Drawing Quiz
+![image](https://github.com/Jiwon119/Toby-s-Carrot-Garden/assets/92111247/b01e2094-a3c7-4105-a97b-32d23bf206b5)
+  
+  
+- 분석 화면
 
-- 분석 화면 (미완료)
-
-![Alt 텍스트](https://lab.ssafy.com/s10-ai-image-sub2/S10P22A202/-/raw/master/asset/%E1%84%80%E1%85%B5%E1%84%82%E1%85%A7%E1%86%B7%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.GIF)
-- 스토리 클리어 기념사진 당근밭 화면
 
 # 🐣 팀 구성
 
 ## 팀원
-<img src="./asset/팀원소개.JPG" alt="팀원 이미지" >
+![image](https://github.com/Jiwon119/Toby-s-Carrot-Garden/assets/92111247/fa5ba8a6-038a-4c15-8c84-a1aa8d07a357)
 
 <!-- <table>
   <tbody>
